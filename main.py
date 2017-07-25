@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python2
 import random
 
 def is_prime(q,k=50):
