@@ -23,5 +23,5 @@ def is_prime(q,k=50):
         return False
 
     return True
-
+    
 # Rewrite in Python3
